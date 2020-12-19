@@ -1,4 +1,4 @@
-# Supervised_ML_Comparison
+# Supervised-ML-Algorithm-Comparison
 
 This is the final project for my course COGS_118_A: Supervised Machine Learning at UCSD;
 
